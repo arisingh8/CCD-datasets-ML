@@ -1,1 +1,2 @@
-# CCD-IDSv1-ML
+# Classifying on CCD datasets
+## Ari Singh
